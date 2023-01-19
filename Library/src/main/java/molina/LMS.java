@@ -8,7 +8,8 @@ class bookNotFoundException extends Exception{
 		super(s);
 	}
 }
-abstract class Detail{
+abstract class Details
+{
 	String Name ;
 	String Gender ;
 	String Address ;
